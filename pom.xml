@@ -9,7 +9,7 @@
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
   <groupId>me.ericdeng</groupId>
-  <artifactId>alg-collection</artifactId>
+  <artifactId>algorithms</artifactId>
   <version>0.0.1-FLOWER</version>
   <name>algorithm</name>
   <description>Collection of beautiful algorithms</description>
